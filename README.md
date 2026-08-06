@@ -1,4 +1,11 @@
 # 💫 About Me:
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY5ZGhhZzE1YXhodzlmeTA1b2N3dTIxenkwbzgwc3J4ZTA2ODVieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"
+    width="400"
+    alt="Анимация с котиком"
+  />
+</p>
 🎓 Я студентка НИУ ВШЭ ФКН Программная инженерия <br><br>💻 Изучаю frontend-разработку и создаю собственные веб-проекты<br><br>🌱 Сейчас осваиваю JavaScript, TypeScript, React, HTML и CSS<br><br>👯 Открыта к совместным учебным и open-source проектам<br><br>💬 Буду рада общению и обмену опытом в сфере веб-разработки<br><br>⚡ Стремлюсь создавать красивые, понятные и удобные интерфейсы
 
 
